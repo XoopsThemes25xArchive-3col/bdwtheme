@@ -1,0 +1,24 @@
+bdwtheme1 
+
+Version: 1.1
+
+Changed:
+
+6th/Oct/2006: Made changes to make it W3C compliant.
+
+Features:
+
+    * Validated XHTML at W3C.org
+    * All important text resizable in ALL browsers.
+    * Menu in Header. Also editable to suit your own site within theme.html.
+    * User Menu in header also editable within theme.html.
+    * Does not squash logo.
+    * Search box in header.
+    * Bottom Blocks compatible.
+    * CSS Vilidates at www.w3.org
+    *
+    * If any of you find any problems with this theme then please report it at bdwwebs.com.
+
+Removing Adverts:
+
+If you wish to legally remove adverts from our themes then please send us a donation by going to our website and clicking "Donations" in the main menu.
